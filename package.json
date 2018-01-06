@@ -1,0 +1,22 @@
+{
+    "name": "wichniowski-theme",
+    "displayName": "Wichniowski-Theme",
+    "description": "Wichniowski VSCode Theme",
+    "version": "0.0.1",
+    "publisher": "wichniowski",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wichniowski Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wichniowski Theme-color-theme.json"
+            }
+        ]
+    }
+}
