@@ -10,9 +10,11 @@
 		"activityBar.background": "#2d2d2d",
 		"statusBar.background": "#2d2d2d",
 		"activityBarBadge.background": "#2d2d2d",
+		"editorGroupHeader.tabsBackground": "#2d2d2d",
 		"titleBar.activeBackground": "#2d2d2d",
 		"titleBar.inactiveBackground": "#2d2d2d",
-		"titleBar.border": "#2d2d2d"
+		"titleBar.border": "#2d2d2d",
+		"scrollbar.shadow": "#2d2d2d"
 	},
 	"tokenColors": [
 		{
@@ -164,7 +166,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#ffb238"
+				"foreground": "#f4f4f48c"
 			}
 		},
 		{
@@ -189,7 +191,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#30638E"
+				"foreground": "#ffb238"
 			}
 		},
 		{
@@ -203,7 +205,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#30638E"
+				"foreground": "#ffb238"
 			}
 		},
 		{
